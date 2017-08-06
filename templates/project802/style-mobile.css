@@ -1,0 +1,54 @@
+/* Mobile Optimizations (XL)
+*********************************************************************************************/
+
+@media (max-width: 1450px) {
+
+
+    
+}
+
+/* Mobile Optimizations (L)
+*********************************************************************************************/
+
+@media (max-width: 1130px) {
+
+
+    
+}
+
+/* Mobile Optimizations (M)
+*********************************************************************************************/
+
+@media (max-width: 768px) {
+  article.intro .look {
+    width: 10%;
+  }
+
+  article.intro .read {
+    width: 90%;
+    float: left;
+    margin-left: 10%;
+    padding-top: 60px;
+  }
+
+  article.full .look {
+    position: fixed;
+    width: 10%;
+  }
+
+  article.full .read {
+    width: 90%;
+    float: left;
+    margin-left: 10%;
+    padding: 60px 0 40px;
+  }
+}
+
+/* Mobile Optimizations (S)
+*********************************************************************************************/
+
+@media (max-width: 640px) {
+
+    
+    
+}
